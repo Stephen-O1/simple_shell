@@ -73,4 +73,3 @@ return (&environ[index]);
 
 return (NULL);
 }
-
